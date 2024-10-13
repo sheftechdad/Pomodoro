@@ -1,8 +1,8 @@
- Pomodoro Timer with Tkinter
+## Pomodoro Timer with Tkinter
 
 "Time management is the key to efficient work and productive outcomes."
 
-This Pomodoro timer application, created with Python's Tkinter module, helps users implement the Pomodoro Technique to boost productivity. 
+ This Pomodoro timer application, created with Python's Tkinter module, helps users implement the Pomodoro Technique to boost productivity. 
 
 ## Features
 
