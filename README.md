@@ -31,5 +31,5 @@ This project demonstrates my ability to develop practical applications using Pyt
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 
-give it try! 🤩🙌
+give it try! 🤩
 
